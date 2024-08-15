@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MancheelaNithinkumar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java programing
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
